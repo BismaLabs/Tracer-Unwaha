@@ -1,3 +1,11 @@
+<!-- 
+/**
+ * @package  : Paket Trace Unwaha.
+ * @author   : BismaLabs <bismalabs@gmail.com>
+ * @since    : 2017
+ * @license  : https://bismalabs/portofolio/ppdb-muallimin-muallimat/
+ */
+ -->
 <?php include("library/config.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
