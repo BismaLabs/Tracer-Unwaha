@@ -3,6 +3,7 @@
 session_start();
 if(!empty($_SESSION['nama']) AND !empty($_SESSION['nim'])){
 */
+
 ?>
 	<header class="sb-page-header" style="padding-top: 60px;padding-bottom: 30px;text-align: left;font-size: 24px;padding: 30px 15px;color: rgba(255,255,255,.8);background-color: #26A65B;margin-bottom: 40px;font-size: 15px;background-image: url(images/bg.png);position: relative;">
 	<div class="container" style="margin-top: 75px; margin-left:0px">

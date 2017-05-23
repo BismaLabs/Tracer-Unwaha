@@ -77,8 +77,8 @@ session_start();
 			session_destroy();
 			//redirect ke home
 			echo "<script>alert('Data Berhasil Disimpan ! terima kasih atas partisipasi anda');
-		    document.location='home'
 		    </script>";
+			print_r($_SESSION);
 		} else {
 			//gagal simpan data
 			echo "<script>alert('Register Gagal! Please Chek Your Query ');
@@ -86,5 +86,4 @@ session_start();
 		    </script>";
 		}		
 	}
-
 ?>
